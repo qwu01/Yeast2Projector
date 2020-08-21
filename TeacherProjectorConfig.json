@@ -1,0 +1,9 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Teacher",
+      "tensorPath": "https://github.com/qwu01/Yeast2Projector/blob/master/TeacherProteinFeatures.csv",
+      "metadataPath": "https://github.com/qwu01/Yeast2Projector/blob/master/full_modified_truncated.tab"
+    }
+  ]
+}
